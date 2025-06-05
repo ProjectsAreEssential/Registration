@@ -1,0 +1,3 @@
+101,Introduction to Programming,30,10
+102,Data Structures,25,20
+103,Database Systems,20,15
